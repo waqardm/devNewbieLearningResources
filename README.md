@@ -57,6 +57,7 @@ Very well rated and easy-to-understand books.
 - [Getify](https://twitter.com/getify)
 - [Veni Kunche](https://twitter.com/venikunche) - Provides great info on scholarships for conferences
 - [Eleftheria Batsou](https://twitter.com/BatsouElef) - Great doses of energy and determination, especially around the #100DaysOfCode Challenge
+- [Sara Soudein](https://twitter.com/SaraSoueidan)
 
 ## Communities 🏢
 
