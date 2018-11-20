@@ -46,18 +46,18 @@ Very well rated and easy-to-understand books.
 ## Video Tutorials 📽️
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Various languages and frameworks covered
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) - Mainly PHP/Laravel but also covers some great concepts around git
-- [Laracasts](https://laracasts.com) - Geared towards Laravel, but other frameworks/langs are covered as well as genereal principles.
+- [Laracasts](https://laracasts.com) - Geared towards Laravel, but other frameworks/langs are covered as well as general principles
 - [Wes Bos](https://wesbos.com)
 
 ##  Useful Twitter Accounts 🐦
 - [lawyerscode](https://twitter.com/lawyerscode) - Me 😃
 - [Javascript Teacher](https://twitter.com/js_tut) - Easy to understand tutorials, despite the name CSS and other useful information is shared.
+- [Sara Soudein](https://twitter.com/SaraSoueidan) - Great for css and design related detail
 - [Ali Spittel](https://twitter.com/ASpittel)
 - [Benjamin Spak](https://twitter.com/benjaminspak) - Positive, engaging content for devs
 - [Getify](https://twitter.com/getify)
 - [Veni Kunche](https://twitter.com/venikunche) - Provides great info on scholarships for conferences
 - [Eleftheria Batsou](https://twitter.com/BatsouElef) - Great doses of energy and determination, especially around the #100DaysOfCode Challenge
-- [Sara Soudein](https://twitter.com/SaraSoueidan)
 
 ## Communities 🏢
 
