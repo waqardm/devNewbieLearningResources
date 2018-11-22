@@ -74,4 +74,4 @@ Very well rated and easy-to-understand books.
 - [Google](https://google.com)
 
 ## Other Similar Lists
-- [Helen Anderson's List] (Front End)(https://dev.to/helenanders26/resources-for-front-end-beginners-274a)
+- [Helen Anderson's List](https://dev.to/helenanders26/resources-for-front-end-beginners-274a)(Front End)
