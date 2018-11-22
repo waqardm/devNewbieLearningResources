@@ -72,3 +72,6 @@ Very well rated and easy-to-understand books.
 
 - [Stack Overflow](https://stackoverflow.com/)
 - [Google](https://google.com)
+
+## Other Similar Lists
+- [Helen Anderson](https://dev.to/helenanders26/resources-for-front-end-beginners-274a)
