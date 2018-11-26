@@ -12,6 +12,7 @@
 ## Learning 🤹
 
 - [FreeCodeCamp](http://freecodecamp.org) - Without a doubt, the best learning resource for me personally
+- [The Odin Project](https://www.theodinproject.com/) - Extensive detail in plain English
 - [Udemy](https://www.udemy.com)
 - [Lynda](https://lynda.com)
 
