@@ -50,6 +50,13 @@ Very well rated and easy-to-understand books.
 - [Laracasts](https://laracasts.com) - Geared towards Laravel, but other frameworks/langs are covered as well as general principles
 - [Wes Bos](https://wesbos.com)
 
+## Help! 🆘
+
+**For When you are stuck**
+
+- [Stack Overflow](https://stackoverflow.com/)
+- [Google](https://google.com)
+
 ##  Useful Twitter Accounts 🐦
 - [lawyerscode](https://twitter.com/lawyerscode) - Me 😃
 - [Javascript Teacher](https://twitter.com/js_tut) - Easy to understand tutorials, despite the name CSS and other useful information is shared.
@@ -67,12 +74,9 @@ Very well rated and easy-to-understand books.
 - [#100DaysOfCode](https://www.100daysofcode.com/) - Excellent community for learning as well as gaining momentum in your journey
 - [Code Newbie](https://www.codenewbie.org/)
 
-## Help! 🆘
+## Interview Preparation
 
-**For When you are stuck**
-
-- [Stack Overflow](https://stackoverflow.com/)
-- [Google](https://google.com)
+- [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9) by Ariel Camus
 
 ## Other Similar Lists
 - [Helen Anderson's List](https://dev.to/helenanders26/resources-for-front-end-beginners-274a) (Front End)
