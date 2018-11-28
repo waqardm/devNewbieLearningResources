@@ -76,7 +76,7 @@ Very well rated and easy-to-understand books.
 
 ## Interview Preparation 👨‍💻 👩‍💻
 
-- [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9) by Ariel Camus
+- [The Ultimate Guide to Preparing for the Coding Interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9) by Ariel Camus
 
 ## Other Similar Lists
 - [Helen Anderson's List](https://dev.to/helenanders26/resources-for-front-end-beginners-274a) (Front End)
