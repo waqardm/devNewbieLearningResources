@@ -74,7 +74,7 @@ Very well rated and easy-to-understand books.
 - [#100DaysOfCode](https://www.100daysofcode.com/) - Excellent community for learning as well as gaining momentum in your journey
 - [Code Newbie](https://www.codenewbie.org/)
 
-## Interview Preparation
+## Interview Preparation 👨‍💻 👩‍💻
 
 - [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9) by Ariel Camus
 
