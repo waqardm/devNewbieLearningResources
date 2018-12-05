@@ -21,7 +21,7 @@
 Very well rated and easy-to-understand books.
 
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
-- [Eloquent](https://eloquentjavascript.net/)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
 
 ## Documentation / Guides 📂
 
