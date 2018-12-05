@@ -32,6 +32,7 @@ Very well rated and easy-to-understand books.
 - [Co Drops](https://tympanus.net/codrops/css_reference/) - Another great CSS Resource
 
 **JS/HTML/Jquery**
+- [Practical Javascript](https://watchandcode.com/p/practical-javascript) - JS explained in plain English
 - [W3Schools](https://www.w3schools.com/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
